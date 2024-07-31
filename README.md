@@ -5,18 +5,18 @@ The recipe app is a full-stack web application using the Django development serv
 web application framework. The app allows users to create, ready, and modify recipes based on ingredients.
 
 ## Key Features
-● Allow for user authentication, login, and logout.
+* Allow for user authentication, login, and logout.
 
-● Let users search for recipes according to ingredients.
+* Let users search for recipes according to ingredients.
 
-● Automatically rate each recipe by difficulty level.
+* Automatically rate each recipe by difficulty level.
 
-● Receive user input and handle errors appropriately.
+* Receive user input and handle errors appropriately.
 
-● Display more details on each recipe if the user asks for that.
+* Display more details on each recipe if the user asks for that.
 
-● Add user recipes to an SQLite database.
+* Add user recipes to an SQLite database.
 
-● Include a Django Admin dashboard for working with database entries.
+* Include a Django Admin dashboard for working with database entries.
 
-● Show statistics and visualizations based on trends and data analysis.
+* Show statistics and visualizations based on trends and data analysis.
