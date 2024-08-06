@@ -12,3 +12,4 @@ class RecipeListView(ListView):             #class-based view
 class RecipeDetailView(DetailView):                      #class-based view
    model = Recipe                                       #specify model
    template_name = 'recipes/recipes_detail.html'                 #specify template
+
